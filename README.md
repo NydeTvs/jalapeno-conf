@@ -1,5 +1,5 @@
-# Welcome to Jalapeno Config Dotfiles (by NydeTVs)
-<img src="https://gitlab.com/uploads/-/system/project/avatar/40517887/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67.png" alt="NixOS Logo" width="200"/>
+# Welcome to Jalapeno's Config dotfiles - NydeTVs
+<img src="assets/profile-picture/nixpp.png" alt="NixOS Logo" width="200"/>
 
 This project is a fork of NydeTVs' NixOS dotfiles, designed to be highly portable and work out-of-the-box on most laptops. 
 
